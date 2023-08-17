@@ -5,10 +5,11 @@
 <style type="text/css">
 	.st0{fill:#FB8500;stroke:#FB8500;stroke-width:5;stroke-linejoin:round;}
 	.st1{fill:#023047;stroke:#023047;stroke-width:5;stroke-linejoin:round;}
+	.st2{fill:#023047;}
 </style>
-<g id="Coffee_icon" transform="translate(-1164.5 -430.5)">
-	<path id="Path_2" class="st0" d="M1175.4,467.8h14.4l4.8-27.5h-23.9L1175.4,467.8z"/>
-	<path id="Path_3" class="st1" d="M1167,439.8l2.4-4.8h26.3l2.4,4.8H1167z"/>
-	<path id="Path_4" class="st1" d="M1171,436.8l1.8-3.5h19.4l1.8,3.5H1171z"/>
-</g>
+<path id="Path_2" class="st0" d="M10.9,37.3h14.4l4.8-27.5H6.2L10.9,37.3z"/>
+<path id="Path_3" class="st1" d="M2.5,9.3l2.4-4.8h26.3l2.4,4.8H2.5z"/>
+<path id="Path_4" class="st1" d="M6.5,6.3l1.8-3.5h19.4l1.8,3.5H6.5z"/>
+<path class="st2" d="M23.8,17.1c-1.4-1.4-3.7-1.4-5.2,0L18,17.7l-0.6-0.6c-1.4-1.4-3.7-1.4-5.2,0c-1.4,1.4-1.4,3.7,0,5.2l0.6,0.6
+	l5.2,5.2l5.2-5.2l0.6-0.6C25.2,20.8,25.2,18.5,23.8,17.1z"/>
 </svg>
