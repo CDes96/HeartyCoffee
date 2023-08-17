@@ -145,7 +145,7 @@ h4 {
     z-index: 1;
     margin: 0 auto 0 auto;
     text-decoration: none;
-    background-image: url(/images/blob_01_orange.svg);
+    background-image: url(../images/blob_01_orange.svg);
     background-repeat: no-repeat;
     background-position: center;
     width: 99%;
@@ -185,11 +185,11 @@ h4 {
 }
 
 .coffee-icon::before {
-    content: url(/images/coffee_icon_orange.svg);
+    content: url(../images/coffee_icon_orange.svg);
 }
 
 .coffee-icon-yellow.coffee-icon::before {
-    content: url(/images/coffee_icon_yellow.svg);
+    content: url(../images/coffee_icon_yellow.svg);
 }
 
 .coffee-home-right.coffee-icon:before {
@@ -201,7 +201,7 @@ h4 {
 }
 
 .blob-1 {
-    content: url(/images/blob_01_orange.svg);
+    content: url(../images/blob_01_orange.svg);
     width: 400px;
     z-index: -10;
     position: absolute;
@@ -211,7 +211,7 @@ h4 {
 }
 
 .truck-icon::before {
-    content: url(/images/coffee_box_icon.svg);
+    content: url(../images/coffee_box_icon.svg);
     width: 100px;
 }
 
@@ -278,21 +278,21 @@ h4 {
     display: block;
     padding: 0;
     width: 100%;
-    content: url(/images/wave_01_dark_blue.svg);
+    content: url(../images/wave_01_dark_blue.svg);
     z-index: 0;
     margin-top: -10%;
 }
 
 .wave-light-blue.wave-top:before {
-    content: url(/images/wave_01_light-blue.svg);
+    content: url(../images/wave_01_light-blue.svg);
 }
 
 .wave-orange.wave-top:before {
-    content: url(/images/wave_01_orange.svg);
+    content: url(../images/wave_01_orange.svg);
 }
 
 .wave-yellow.wave-top:before {
-    content: url(/images/wave_01_yellow.svg);
+    content: url(../images/wave_01_yellow.svg);
 }
 
 
@@ -386,7 +386,7 @@ h4 {
 }
 
 .logo-box::before {
-    content: url(/images/cian_desmond_logo.svg);
+    content: url(../images/cian_desmond_logo.svg);
     display: block;
     width: 220px;
     margin-top: 30px;
