@@ -217,7 +217,8 @@ h4 {
 
 .truck-home-left.truck-icon:before {
     position: absolute; 
-    width: 400px;
+    width: 70%;
+    max-width: 400px;
     right: 10%; left: auto;
     top: 20%; bottom: auto;
     z-index: 0;
@@ -472,8 +473,7 @@ header {
     border-radius: 4px;
     z-index: 50;
     transform-origin: 5px 0px;
-    transition: transform 0.5s cubic-bezier(0.77,0.2,0.05,1.0),
-                opacity 0.55s ease;
+    transition: all 1s;
   }
 
   .dark-color#menuToggle span {
@@ -553,15 +553,16 @@ header {
   nav ul {
     position: fixed;
     width: 100%;
-    right: 0;
+    left: 0;
     top: 0;
     bottom: 0;
     background: white;
     z-index: 7;
     text-align: center;
-    padding-top: 100px;
     height: 100%; 
-    margin-top: 0;  
+    margin: 0 auto 0 auto;
+    padding: 100px 1em 0 1em;
+    box-sizing: border-box;
 
 }
 
@@ -598,7 +599,6 @@ ul {
 
 nav ul li {
     width: 100%;
-    margin-left: 20px;
     text-decoration:  none;
 }
 
