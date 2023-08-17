@@ -386,7 +386,7 @@ h4 {
 }
 
 .logo-box::before {
-    content: url(../images/cian_desmond_logo.svg);
+    content: '';
     display: block;
     width: 220px;
     margin-top: 30px;
@@ -397,7 +397,7 @@ h4 {
 }
 
 .logo-footer.logo-box::before {
-    content: url(/images/desmond-bros-wordmark-black-with-white-dot.svg);
+    content: '';
     width: 160px;
     padding: 0;
     margin: 0;
